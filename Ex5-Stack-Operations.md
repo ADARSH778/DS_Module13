@@ -34,7 +34,8 @@ return stack[top--];
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/c4bcf474-6331-4483-af57-e81c89154c9c)
+
+![image](https://github.com/user-attachments/assets/74e0ba3a-c488-4922-8f93-ee35da3fd476)
 
 
 
